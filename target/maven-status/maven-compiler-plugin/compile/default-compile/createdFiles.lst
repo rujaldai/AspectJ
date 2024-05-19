@@ -1,0 +1,3 @@
+com/practise/aspectj/Main.class
+com/practise/aspectj/Main$WeavedToString.class
+com/practise/aspectj/aspect/LoggingAspect.class

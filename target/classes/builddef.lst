@@ -1,0 +1,14 @@
+-Xajruntimetarget:1.5
+-encoding
+UTF-8
+-showWeaveInfo
+-verbose
+-21
+-classpath
+/Users/rujal/.m2/repository/org/aspectj/aspectjrt/1.9.21/aspectjrt-1.9.21.jar:/Users/rujal/.m2/repository/org/aspectj/aspectjweaver/1.9.21/aspectjweaver-1.9.21.jar:/Users/rujal/IdeaProjects/AspectJ/target/classes
+-d
+/Users/rujal/IdeaProjects/AspectJ/target/classes
+-s
+/Users/rujal/IdeaProjects/AspectJ/target/generated-sources/aspectj-maven-plugin
+/Users/rujal/IdeaProjects/AspectJ/src/main/java/com/practise/aspectj/Main.java
+/Users/rujal/IdeaProjects/AspectJ/src/main/java/com/practise/aspectj/aspect/LoggingAspect.java
